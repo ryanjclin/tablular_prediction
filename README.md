@@ -1,1 +1,0 @@
-# tablular_prediction
